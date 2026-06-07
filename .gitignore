@@ -1,0 +1,13 @@
+# Godot-specific overrides
+.godot/
+.import/
+export_presets.cfg
+
+# Mono-specific overrides (Eğer C# kullanıyorsanız)
+.mono/
+data_*/
+mono_crash_*.log
+
+# System-specific overrides
+.DS_Store
+Thumbs.db
