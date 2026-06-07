@@ -1,0 +1,14 @@
+[gd_scene format=3 uid="uid://ly5cmss7rjbm"]
+
+[node name="Gamescreen" type="Control" unique_id=1145243906]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="MainLayout" type="HBoxContainer" parent="." unique_id=1827075468]
+layout_mode = 0
+offset_right = 65.0
+offset_bottom = 64.0

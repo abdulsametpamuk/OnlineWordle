@@ -1,4 +1,0 @@
-[gd_scene format=3 uid="uid://b6kp33l2wi3s0"]
-
-[node name="Timer" type="Timer" unique_id=1184317060]
-wait_time = 4.345000000000001
