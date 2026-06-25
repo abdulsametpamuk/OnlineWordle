@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://bsbhavgsecxqe"]
+
+[node name="LetterTile" type="Panel" unique_id=1528265557]
+custom_minimum_size = Vector2(40, 40)
+
+[node name="Label" type="Label" parent="." unique_id=424697868]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 23.0
