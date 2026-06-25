@@ -11,7 +11,12 @@ config_version=5
 [application]
 
 config/name="wordle2"
+run/main_scene="uid://ditw8k8lyh04s"
 config/features=PackedStringArray("4.6", "Forward Plus")
+
+[autoload]
+
+Enums="*uid://8f7opwxn6i5q"
 
 [physics]
 
@@ -20,3 +25,4 @@ config/features=PackedStringArray("4.6", "Forward Plus")
 [rendering]
 
 rendering_device/driver.windows="d3d12"
+environment/defaults/default_clear_color=Color(0.101960786, 0.101960786, 0.105882354, 1)
